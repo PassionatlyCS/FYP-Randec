@@ -23,3 +23,12 @@ The files we have here:    <br />
       --   <br />
       ---   <br />
    
+   
+   How to run the code:  <br /> 
+   Binary Classificaiton  <br /> 
+   Step 1   Download Data.rar -> extract it and the use the csv file only.  <br /> 
+   Step 2   Run BinaryClassification.ipynb and get the results  <br /> 
+   
+   Feature Creation:  <br /> 
+   Step 1   Download rawreports.rar (or malware.rar). Use all csv files  <br /> 
+   Step 2   Run FeatureCreation which will append data in the featurefile.csv  <br /> 
