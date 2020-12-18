@@ -6,7 +6,7 @@ The files we have here:    <br />
    1. DataSet  <br />
       i.) Data.csv  <br />
       ii.) Feature File  <br />
-      iii.) Malware.json (cuckoo sandbox malicious reports from dataset from virusshare.com)  <br />
+      iii.) Malware.json (cuckoo sandbox malicious reports from dataset from https://virusshare.com/)  <br />
    
    Codes on / for Datasets  <br /> 
    2. Codes  <br />
