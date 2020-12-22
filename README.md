@@ -24,7 +24,6 @@ The files we have here:    <br />
       iii.) Download the file from the link - unzip and goto the folder <br />
       to then from console npm install (or yarn install for yarn framworks for reactnative and angular combined) within the folder  <br />
       - Note: you can install react native now, for future iterations from https://reactnative.dev/docs/getting-started   <br />
-     
       -- Within the directory run npm install and npm start (undecided if watch method will be implemented later with mongodb)   <br />
       --- This should run the website on a browser window http://localhost:4200/home  <br />
       
