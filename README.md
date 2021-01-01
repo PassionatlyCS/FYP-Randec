@@ -4,7 +4,7 @@ This is the repository of github for Randec-II (maker is i160164@nu.edu.pk, nu i
 The files we have here:    <br />
    DataSetCSV on Ransomeware   <br />
    1. DataSet  <br />
-      i.) Data.rar -> Kaggle dataset of 2017 in the form of PE header files as csv <br />
+      i.) Data.rar -> Kaggle dataset in the form of PE header files as csv (CS5242 Competition Kaggle 2017 https://www.kaggle.com/c/cs5242-malware-detection/data )<br />
       ii.) FeatureFile.rar (Multiple featureframes is a feature file -> output of our code) <br />
       iii.) Malware.rar (cuckoo sandbox malicious reports from multiple datasets from https://virusshare.com/)  <br />
       iv.) RawReports.rar (raw reports previously were not being downloaded, can be accessed 12/30/2020 2:01pm onwards  <br />
