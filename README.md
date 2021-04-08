@@ -61,24 +61,24 @@ https://arxiv.org/pdf/2010.16108.pdf
 Dataset for benign exe files:
 https://figshare.com/articles/dataset/Malware_Detection_PE-Based_Analysis_Using_Deep_Learning_Algorithm_Dataset/6635642
 
-1)The above link has 1000 benign exe files.
-2)Code to convert these files to grayscale images is present in "Code for hybrid analysis" in "Codes".
-3)After converting benign exe files to grayscale images, you have to move them all to a single folder and name the folder as "benign"
-4)Move all the malware images out of their parent directories and inside a single directory named "malicious"
-5)Move both directories of malicious and benign in to a new directory of "train"
-6)You can also choose to split the images in testing and training datasets.
-7)Copy and paste the training dataset path specified in the code.
+1)The above link has 1000 benign exe files.<br /> 
+2)Code to convert these files to grayscale images is present in "Code for hybrid analysis" in "Codes".<br /> 
+3)After converting benign exe files to grayscale images, you have to move them all to a single folder and name the folder as "benign"<br /> 
+4)Move all the malware images out of their parent directories and inside a single directory named "malicious"<br /> 
+5)Move both directories of malicious and benign in to a new directory of "train"<br /> 
+6)You can also choose to split the images in testing and training datasets.<br /> 
+7)Copy and paste the training dataset path specified in the code.<br /> 
 
 
 **Running the hybrid analysis code:**
-reference link for vgg16
-https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-to-classify-photos-of-dogs-and-cats/
-last code snippet is used as it has employed transfer learning
+reference link for vgg16<br /> 
+https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-to-classify-photos-of-dogs-and-cats/<br /> 
+last code snippet is used as it has employed transfer learning<br /> 
 
-1)Code is also changed for ResNet50,InceptionV3 and Xception 
-2)Provide training path where specified in code
-3)Provide test file path in run_example1() for classification
-4)link for implemented research paper is given below
+1)Code is also changed for ResNet50,InceptionV3 and Xception <br /> 
+2)Provide training path where specified in code<br /> 
+3)Provide test file path in run_example1() for classification<br /> 
+4)link for implemented research paper is given below<br /> 
 https://www.researchgate.net/publication/342167624_FCNNMD_A_Novel_Fusion_Method_based_on_Convolutional_Neural_Network_for_Malware_Detection
 
 
