@@ -1,7 +1,7 @@
 # FYP-Randec
 This is the repository of github for Randec-II (maker is i160164@nu.edu.pk, nu id does not receive any mails regarding github :( )
 
-Note of Clarrification: This project is done by two members, Afaq Asif (<i170217@nu.edu.pk>) and Usman Ali (<i160164@nu.edu.pk>)
+Note of Clarrification: This project is done by two members, Afaq Asif (<i170217@nu.edu.pk>) and Usman Ali (<i160164@nu.edu.pk>) <br />
 The files we have here:    <br />
    DataSetCSV on Ransomeware   <br />
    1. DataSet  <br />
