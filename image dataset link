@@ -1,0 +1,9 @@
+https://www.dropbox.com/s/ep8qjakfwh1rzk4/malimg_dataset.zip?dl=0
+
+download image dataset from the above link
+
+you can then copy all the images in one folder and use it for training and testing your model.
+
+the dataset is mentioned in a couple of research papers and a link for one paper is given below
+
+https://arxiv.org/pdf/2010.16108.pdf
