@@ -62,7 +62,7 @@ Dataset for benign exe files:
 https://figshare.com/articles/dataset/Malware_Detection_PE-Based_Analysis_Using_Deep_Learning_Algorithm_Dataset/6635642
 
 1)The above link has 1000 benign exe files.<br /> 
-2)Code to convert these files to grayscale images is present in "Code for hybrid analysis" in "Codes".<br /> 
+2)Code to convert these files to grayscale images is present in "Executable_to_grayscale.ipynb" in "Codes".<br /> 
 3)After converting benign exe files to grayscale images, you have to move them all to a single folder and name the folder as "benign"<br /> 
 4)Move all the malware images out of their parent directories and inside a single directory named "malicious"<br /> 
 5)Move both directories of malicious and benign in to a new directory of "train"<br /> 
@@ -71,6 +71,7 @@ https://figshare.com/articles/dataset/Malware_Detection_PE-Based_Analysis_Using_
 
 
 **Running the hybrid analysis code:**
+Hybrid anaylsis models are coded in "Code for hybrid analysis.ipynb" in "Codes"<br /> 
 reference link for vgg16<br /> 
 https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-to-classify-photos-of-dogs-and-cats/<br /> 
 last code snippet is used as it has employed transfer learning<br /> 
