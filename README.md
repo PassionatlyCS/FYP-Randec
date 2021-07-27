@@ -82,6 +82,11 @@ last code snippet is used as it has employed transfer learning<br />
 4)link for implemented research paper is given below<br /> 
 https://www.researchgate.net/publication/342167624_FCNNMD_A_Novel_Fusion_Method_based_on_Convolutional_Neural_Network_for_Malware_Detection
 
-
-
-
+**Code Evaluation Instructions**
+The FINAL submission is in this link, since its size exceeds (over 800mb) <br />
+  Step 1: Download the rar file in the link below, and extract it, <br />
+  Step 2: There will be two more rar files, the first labeled as code - 1 is the frontend (and backened) and the second file is labelled as code - 2, is the Flask integration of machine learning models <br />
+  
+  To Run Code-1: Extract the code-1 file, go to the master branch and use the terminal and run with 'npm start'
+  To Run Code-2: Extract the code-2 file, go to the master branch and use the terminal and run with 'python app.py'
+      Link: https://drive.google.com/file/d/1W2PmvkEqJIZtPFUQ1wZaJ3jgyP8Bbbb6/view?usp=sharing (only opens with nu id)
